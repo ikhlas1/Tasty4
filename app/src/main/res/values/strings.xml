@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">Tasty</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_resto">Resto</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="rest_title">La Plume</string>
+    <string name="title_activity_localisation">Map</string>
+    <string name="title_activity_location">Map</string>
+    <string name="title_activity_offer_binaire">offer_binaire</string>
+    <string name="title_Formule_1">Formule 1</string>
+    <string name="title_Formule_2">Formule 2</string>
+    <string name="title_Formule_3">Formule 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_binaire">binaire</string>
+    <string name="title_activity_offer_bin">Offer_bin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_reservartion">Reservartion</string>
+    <string name="title_activity_tab_layout_demo">TabLayoutDemoActivity</string>
 </resources>
